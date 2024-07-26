@@ -4,7 +4,7 @@ export const publicRoutes = ["/"];
 
 // An array of routes that are accesible by authentication
 
-export const authRoutes = ["/auth/login", "/auth/register"];
+export const authRoutes = ["/auth/login", "/auth/register", "/auth/error"];
 
 // The prefix for API authectication routes
 
